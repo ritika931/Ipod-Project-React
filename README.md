@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coding-Ninjas-iPod-Mini-Project
 **This is my project submission for the Coding Ninjas Web Developing course mini project which was a react app of iPod.** 
 
@@ -5,3 +6,6 @@ Which was Build an iPod using React.js. The following are the instructions:   Bu
 
 
 A demo of the project - https://ninjasfiles.s3.amazonaws.com/0000000000003618.gif
+=======
+# Ipod-Project-React
+>>>>>>> e1c70bec868fb0af0ae1250b11fa32d69c4314e1
